@@ -10,7 +10,7 @@ import random
 # ==========================
 # CONFIG
 # ==========================
-BOT_TOKEN = "yyy"
+BOT_TOKEN = ""
 ADMIN_ID = 8300129370
 ADMIN_USERNAME = "@BD_Network_Spport"
 
